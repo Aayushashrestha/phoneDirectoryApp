@@ -1,0 +1,10 @@
+C:\Users\Karuna\source\repos\Phone\Phone\bin\Debug\Phone.exe.config
+C:\Users\Karuna\source\repos\Phone\Phone\bin\Debug\Phone.exe
+C:\Users\Karuna\source\repos\Phone\Phone\bin\Debug\Phone.pdb
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.Properties.Resources.resources
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.csproj.GenerateResource.cache
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.exe
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.pdb
+C:\Users\Karuna\source\repos\Phone\Phone\obj\Debug\Phone.Phone.resources
